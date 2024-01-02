@@ -763,7 +763,14 @@ namespace XIVComboPlugin
                 }
 
             // MONK
-            // haha you get nothing now
+            // Replace Dragon Kick with Bootshine while under the effect of Leaden Fist
+            if (Configuration.ComboPresets.HasFlag(CustomComboPreset.MonkLeadenFistCombo))
+                if (actionID == MNK.DragonKick)
+                {
+                    if (SearchBuffArray(MNK.BuffLeadenFist) && level >= 50)
+                        return iconHook.Original(self, MNK.Bootshine);
+                    return MNK.DragonKick;
+                }
 
             // RED MAGE
 

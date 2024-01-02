@@ -161,7 +161,8 @@ namespace XIVComboPlugin
         BardAoEUpgradeFeature = 1L << 59,
 
         // MONK
-        // you get nothing, you lose, have a nice day etc
+        [CustomComboInfo("MonkLeadenFist", "Replace Dragon Kick with Bootshine while under the effect of Leaden Fist", 19)]
+        MonkLeadenFistCombo = 1L << 55,
 
         // RED MAGE
         [CustomComboInfo("Red Mage AoE Combo", "Replaces Veraero/thunder 2 with Impact when Dualcast or Swiftcast are active", 35)]
