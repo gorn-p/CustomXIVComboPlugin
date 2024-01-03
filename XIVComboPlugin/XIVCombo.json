@@ -7,8 +7,8 @@
   "Tags": [ "Combo" ],
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
-  "DownloadLinkInstall": "https://github.com/gorn-p/CustomXIVComboPlugin/archive/refs/tags/v0.0.0.zip",
-  "DownloadLinkTesting": "https://github.com/gorn-p/CustomXIVComboPlugin/archive/refs/tags/v0.0.0.zip",
-  "DownloadLinkUpdate": "https://github.com/gorn-p/CustomXIVComboPlugin/archive/refs/tags/v0.0.0.zip",
+  "DownloadLinkInstall": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
   "AcceptsFeedback": true
 }
