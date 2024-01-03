@@ -1,0 +1,14 @@
+{
+  "Name": "XIV Combo",
+  "Author": "Attick + Gorn",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "RepoUrl": "https://github.com/gorn-p/CustomXIVComboPlugin",
+  "Punchline": "add monk combo",
+  "Tags": [ "Combo" ],
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "DownloadLinkInstall": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/gorn-p/CustomXIVComboPlugin/releases/download/v0.0.0/latest.zip",
+  "AcceptsFeedback": true
+}
